@@ -14,7 +14,6 @@ public class Main {
 				
 			 }
 		 }
-		 
 		 for(int c: A) {
 			 if(c>=0) {
 				 return c;
@@ -23,8 +22,6 @@ public class Main {
 		 return -1;
 		 }
 	
-	
- 
 	  public static void main(String [] args) {
 		  System.out.print(solution(new int[]{9,3,9,3,9,7,9}));
 	  }
