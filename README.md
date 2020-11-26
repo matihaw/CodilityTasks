@@ -7,7 +7,7 @@ All tasks from Codility that I have done
 Rotate an array **A** to the right by a given number **k** of steps.
 
 
-* ### [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) - ***[Solution 66%](Correctness - 100%, Performance - 25%)](https://github.com/matihaw/CodilityTasks/blob/main/OddOccurrencesInArray/Main.java)***
+* ### [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) - [***Solution 66%***](Correctness - 100%, Performance - 25%)](https://github.com/matihaw/CodilityTasks/blob/main/OddOccurrencesInArray/Main.java)
 Find value that occurs in odd number of elements in array **A**.
 
 # Time Complexity
