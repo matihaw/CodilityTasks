@@ -4,7 +4,7 @@ All tasks from Codility that I have done
 # Arrays
 
 * ### [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) - [***Solution - 100%***]
-Rotate an array **A** to the right by a given number **k** of steps.
+Rotate an array **A** to the right by a given number **K** of steps.
 
 
 * ### [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) - [***Solution 66% (Correctness - 100%, Performance - 25%)***]
