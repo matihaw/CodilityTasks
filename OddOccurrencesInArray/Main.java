@@ -20,10 +20,5 @@ public class Main {
 			 }
 		 }
 		 return -1;
-		 }
-	
-	  public static void main(String [] args) {
-		  System.out.print(solution(new int[]{9,3,9,3,9,7,9}));
-	  }
-
+		 }	
 }
