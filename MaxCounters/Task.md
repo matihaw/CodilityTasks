@@ -1,3 +1,6 @@
+# [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
+
+### Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
 You are given N counters, initially set to 0, and you have two possible operations on them:
 
 * increase(X) − counter X is increased by 1,
