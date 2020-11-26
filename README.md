@@ -3,7 +3,7 @@ All tasks from Codility that I have done
 
 # Arrays
 
-* ###[CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) - 100%
+* ### [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) - 100%
 Rotate an array **A** to the right by a given number **k** of steps.
 
 
