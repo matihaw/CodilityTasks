@@ -18,8 +18,6 @@ Count minimal number of jumps from position X to Y. D is a lenght of jump.
 * ### [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) - 100%
 Find the missing element in a given permutation.
 
-# TapeEquilibrium
-
 * ### [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) - 100%
 Minimize the value ``` |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])| ```.
 
