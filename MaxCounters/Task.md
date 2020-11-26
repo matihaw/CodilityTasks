@@ -7,6 +7,7 @@ A non-empty array A of M integers is given. This array represents consecutive op
 
 * if A[K] = X, such that 1 ≤ X ≤ N, then operation K is increase(X),
 * if A[K] = N + 1 then operation K is max counter.
+
 For example, given integer N = 5 and array A such that:
     ```
     A[0] = 3
