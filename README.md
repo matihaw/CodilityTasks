@@ -31,3 +31,6 @@ Calculate the values of counters after applying all alternating operations: incr
 
 * ### [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) - [***Solution - 100%***]
 Find the smallest positive integer that does not occur in a given sequence.
+
+* ### [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) - [***Solution - 100%***]
+Check whether array A is a permutation.
