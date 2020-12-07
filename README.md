@@ -34,6 +34,11 @@ Find the smallest positive integer that does not occur in a given sequence.
 
 * ### [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) - [***Solution - 100%***]
 Check whether array A is a permutation.
+
 # Prefix Sums
+
 * ### [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/) - [***Solution - 100%***]
 Compute number of integers divisible by k in range [a..b].
+
+* ### [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) - [***Solution - 100%***]
+Find the minimal nucleotide from a range of sequence DNA.
