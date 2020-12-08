@@ -47,3 +47,4 @@ Find the minimal nucleotide from a range of sequence DNA.
 Find the minimal average of any slice containing at least two elements.
  
 * ### [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) - [***Solution - 100%***]
+Count the number of passing cars on the road.
