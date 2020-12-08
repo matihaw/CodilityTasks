@@ -45,3 +45,5 @@ Find the minimal nucleotide from a range of sequence DNA.
 
 * ### [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/) - [***Solution - 100%***]
 Find the minimal average of any slice containing at least two elements.
+ 
+* ### [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) - [***Solution - 100%***]
