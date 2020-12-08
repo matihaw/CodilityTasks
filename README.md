@@ -48,3 +48,8 @@ Find the minimal average of any slice containing at least two elements.
  
 * ### [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) - [***Solution - 100%***]
 Count the number of passing cars on the road.
+
+# Sorting
+
+* ### [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/) - [***Solution - 100%***]
+Compute number of distinct values in an array.
