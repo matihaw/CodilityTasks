@@ -1,5 +1,5 @@
 # **CodilityTasks**
-All tasks from Codility that I have done
+All tasks from Codility that I have done using Java
 
 # Arrays
 
@@ -42,3 +42,6 @@ Compute number of integers divisible by k in range [a..b].
 
 * ### [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) - [***Solution - 100%***]
 Find the minimal nucleotide from a range of sequence DNA.
+
+* ### [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/) - [***Solution - 100%***]
+Find the minimal average of any slice containing at least two elements.
