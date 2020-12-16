@@ -51,5 +51,8 @@ Count the number of passing cars on the road.
 
 # Sorting
 
-* ### [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/) - [***Solution - 100%***]
+* ### [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)  - [***Solution - 100%***]
 Compute number of distinct values in an array.
+
+* ### [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) - [***Solution - 100%***]
+ Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
